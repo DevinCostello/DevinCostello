@@ -6,20 +6,18 @@ I've been teaching myself to code since July 2021
 
 What I've learned so far:
 
--HTML and CSS
+- HTML and CSS
+- Javascript
+- Git & Github
+- Node & Express
+- REST APIs
+- React
+- MongoDB & Mongoose
+- Redux Toolkit
+- RTK Query
 
--Javascript
+What I plan to learn in the near future:
 
--Git & Github
-
--Node & Express
-
--REST APIs
-
--React
-
--MongoDB & Mongoose
-
--Redux Toolkit
-
--RTK Query
+ - Typescript
+ - Next.js
+ - Test Driven Development
