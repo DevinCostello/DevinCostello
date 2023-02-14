@@ -21,3 +21,4 @@ What I plan to learn in the near future:
  - Typescript
  - Next.js
  - Test Driven Development
+ - Tailwind CSS
