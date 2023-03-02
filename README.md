@@ -21,6 +21,7 @@ What I've learned so far:
 What I plan to learn in the near future:
 
 ![typescript](https://user-images.githubusercontent.com/86488145/218886211-7a47b046-e072-4c52-800c-7577fba69d5e.png)
+![tailwind-css2](https://user-images.githubusercontent.com/86488145/222553858-6f3bed0a-d731-4097-95ef-9696dbcc7969.png)
  - Next.js
  - Test Driven Development
  - Tailwind CSS
