@@ -1,27 +1,24 @@
-## Hi, I'm Devin Costello
+<h1 align="left">Hi, I'm Devin Costello</h1>
+<h3 align="left">I'm a self-taught web developer from Ontario, Canada 🇨🇦</h3>
+I've been teaching myself to code since July 2021
 
-I'm a self-taught web developer from Ontario, Canada 🇨🇦
+<h3 align="left">What I've learned so far:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/ddqpa1a5n/image/upload/v1678039799/node-js_jeq8zh.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/ddqpa1a5n/image/upload/e_colorize:100/v1678039799/express_1_q2ekiq.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/ddqpa1a5n/image/upload/v1678039799/mongodb_aulo6s.png" alt="mongodb" width="40" height="40"/> </a
+</p>
 
-I've been teaching myself to code since July 2021 
+<h3 align="left">What I plan to learn in the near future:</h3>
+<p align="left">
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+</p>
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/devincostello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devincostello" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devin-costello-061666166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin-costello-061666166" height="30" width="40" /></a>
+</p>
 
-What I've learned so far:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devincostello&show_icons=true&locale=en&layout=compact" alt="devincostello" /></p>
 
-![html-5](https://user-images.githubusercontent.com/86488145/218884977-30c3f0ef-4c9c-412a-b7c5-c8d7cfcc95fc.png)
-![css3](https://user-images.githubusercontent.com/86488145/218885044-e1ee1e43-2cfd-4f35-bef4-7304775137a7.png)
-![javascript](https://user-images.githubusercontent.com/86488145/218885271-61126e3d-a236-4399-804d-5b7c901c34d3.png)
-![git](https://user-images.githubusercontent.com/86488145/218885308-ca0f547a-7010-4fe4-8a7c-4165b957e5b1.png)
-![node-js](https://user-images.githubusercontent.com/86488145/218885367-97c16529-8a30-414e-b8ab-f1114ddd94b9.png)
-![react](https://user-images.githubusercontent.com/86488145/218885537-a5f4cef6-b4ba-4161-aec2-82285737f480.png)
-![mongodb](https://user-images.githubusercontent.com/86488145/218885606-cd4e5894-e23f-48f8-a5ac-dc74d4dd36f1.png)
-![redux](https://user-images.githubusercontent.com/86488145/218885585-87339cb9-801b-4868-ac04-18ed7e492cc8.png)
-- Express
-- REST APIs
-- RTK Query
-
-What I plan to learn in the near future:
-
-![typescript](https://user-images.githubusercontent.com/86488145/218886211-7a47b046-e072-4c52-800c-7577fba69d5e.png)
-![tailwind-css2](https://user-images.githubusercontent.com/86488145/222553858-6f3bed0a-d731-4097-95ef-9696dbcc7969.png)
- - Next.js
- - Test Driven Development
- - Tailwind CSS
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devincostello&show_icons=true&locale=en" alt="devincostello" /></p>
